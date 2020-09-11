@@ -1,0 +1,11 @@
+sample.id	pop
+Ugibba_bladderR1	bladder
+Ugibba_rhizoidR1	rhizoid
+Ugibba_stemR2	stem
+Ugibba_bladderR3	bladder
+Ugibba_stemR3	stem
+Ugibba_rhizoidR3	rhizoid
+Ugibba_leafR1	leaf
+Ugibba_stemR1	stem
+Ugibba_leafR2	leaf
+Ugibba_rhizoidR2	rhizoid

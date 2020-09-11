@@ -1,0 +1,10 @@
+#the easiest way to download the software is through anaconda. Below are the commands to do so
+#they can each be downloaded through their respective sites and installed, but then you will need
+#to make sure paths are added for each binary in the pipeline file
+
+BWA MEM - conda install -c bioconda bwa
+Samtools - conda install -c bioconda samtools
+GATK - conda install -c bioconda gatk4
+VCFtools - conda install -c bioconda vcftools
+Stacks - conda install -c bioconda stacks
+Plink - conda install -c bioconda plink

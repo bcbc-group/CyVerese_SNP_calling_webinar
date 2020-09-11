@@ -1,0 +1,14 @@
+Ugibba_bladderR1	bladder
+Ugibba_rhizoidR1	rhizoid
+Ugibba_bladderR2	bladder
+Ugibba_stemR2	stem
+Ugibba_leafR3	leaf
+Ugibba_bladderR3	bladder
+Ugibba_stemR3	stem
+Ugibba_rhizoidR3	rhizoid
+Ugibba_leafR1	leaf
+Ugibba_stemR1	stem
+Ugibba_leafR2	leaf
+Ugibba_rhizoidR2	rhizoid
+Ugibba_shootstraps	pool
+Ugibba_vegetative	pool
